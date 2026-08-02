@@ -2,6 +2,8 @@
 
 A [Processing](https://processing.org/) sketch that converts a video into ASCII art, frame by frame. It shows a live preview with an in-app control panel for tweaking the character ramp, colors, and inversion, then renders the whole video to a folder of PNG frames plus a ready-to-run `ffmpeg` command for stitching them back into a video.
 
+![Example ASCII render](example_output.gif)
+
 ## Requirements
 
 - [Processing](https://processing.org/download) (desktop IDE)
