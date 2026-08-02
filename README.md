@@ -12,7 +12,7 @@ A [Processing](https://processing.org/) sketch that converts a video into ASCII 
 
 ## Setup
 
-1. Open `ASCII_Portfolio_Deck_Video_Maker.pde` in the Processing IDE.
+1. Open `processing_video_to_ascii.pde` in the Processing IDE.
 2. Place your source video in the sketch's `data/` folder and name it `input.mp4` (or edit the `videoFile` variable at the top of the file to point elsewhere).
 3. Run the sketch (▶).
 
